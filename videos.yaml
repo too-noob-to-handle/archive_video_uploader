@@ -1,4 +1,4 @@
-folder: "/content/archive_video_uploader-master/content"
+folder: "/content/archive_video_uploader-master"
 
 default_metadata:
     mediatype: "movies"
