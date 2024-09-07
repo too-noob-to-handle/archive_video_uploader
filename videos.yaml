@@ -3,8 +3,8 @@ folder: "/content/archive_video_uploader-master"
 default_metadata:
     mediatype: "movies"
     licenseurl: "http://creativecommons.org/licenses/by/3.0/"
-    language: "eng"
-    collection: "pyconza"
+    language: "ben"
+    collection: "community"
     subject: "pyconza; pyconza2019; python"
 
 videos:
